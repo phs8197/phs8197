@@ -1,6 +1,6 @@
 # 👋 Hi there
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=BFCECE&height=300&section=header&text=HELLO%20WORLD&fontSize=90&fontColor=white)
+![header](https://capsule-render.vercel.app/api?type=wave&color=BFCECE&height=300&section=header&text=HELLO%20WORLD&fontSize=90&fontColor=fff)
 
 # 💪 Skills
 ### Platforms & Languages
