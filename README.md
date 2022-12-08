@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=반갑습니다+🥰&font=Redressed&size=40)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=NICE TO MEET YOU+🥰&font=Redressed&size=40)](https://git.io/typing-svg)
 
 # 👋 Hi there
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=HYUN+SOO&fontAlign=70)
