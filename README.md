@@ -2,7 +2,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=HYUN+SOO&fontAlign=70)
 
 # 👋 Hi there
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=만나서+반갑습니다+🥰&font=Do+Hyeon&size=36)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=만나서+반갑습니다+🥰&font=Do+Hyeon&size=32)](https://git.io/typing-svg)
+신입의 열정과  도전정신을 깊숙히 새기며
+배움에 있어 겸손함을 유지하며 세부적인 곳까지 파고드는 개발자가 되겠습니다.
 
 # 💪 Skills
 
