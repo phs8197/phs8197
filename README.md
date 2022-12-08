@@ -1,6 +1,6 @@
 # 👋 Hi there
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=BFCECE&height=300&section=header&text=HELLO%20WORLD&fontSize=90&fontColor=fff)
+![header](https://capsule-render.vercel.app/api?type=wave&color=FFE9E9&height=300&section=header&text=HELLO%20WORLD&fontSize=90&fontColor=fff)
 
 # 💪 Skills
 ### Platforms & Languages
@@ -18,7 +18,5 @@
  
 # :mailbox_with_mail: Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://seizetheday8197.tistory.com/)](https://seizetheday8197.tistory.com/)
-[![Notion Badge](http://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=Notion&link=https://obtainable-summer-cbc.notion.site/)]
-(https://obtainable-summer-cbc.notion.site/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ilikefall1212@gmail.com)](mailto:ilikefall1212@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:pjk1245@naver.com)](mailto:pjk1245@naver.com)
