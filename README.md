@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=HYUN+SOO&fontAlign=70&fontColor=F5A3A5)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=HYUN+SOO&fontAlign=70&fontColor=FFE9E9)
 
 # 👋 Hi There
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F5A3A5&lines=만나서%20반갑습니다+🥰&font=Do+Hyeon&size=32)](https://git.io/typing-svg)   
