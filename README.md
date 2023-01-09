@@ -3,9 +3,6 @@
 
 # 👋 Hi There
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F5A3A5&lines=만나서%20반갑습니다+🥰&font=Do+Hyeon&size=32)](https://git.io/typing-svg)   
-신입의 열정과  도전정신을 깊숙히 새기며   
-배움에 있어 겸손함을 유지하며   
-세부적인 곳까지 파고드는 개발자가 되겠습니다.   
 
 # 💪 Skills
 
